@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: 'https://pic3.zhimg.com/80/138402c7eaa294df3ec8b4f9dbbe8257_hd.jpg'
+bgImage: '/bg2.jpeg'
 faceImage: '/avatar.png'
 heroImageStyle: {
   maxWidth: '600px',

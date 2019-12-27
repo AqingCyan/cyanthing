@@ -1,6 +1,7 @@
 module.exports = {
-  "title": "AqingCyan技术轴",
-  "description": "AqingCyan become bigger",
+  "title": "小薛菜菜子的技术轴",
+  "description": "You're just the tip of the iceberg",
+  base: '/',
   "dest": "public",
   "head": [
     [
@@ -22,7 +23,7 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "主页",
         "link": "/",
         "icon": "reco-home"
       },
@@ -36,35 +37,10 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "NPM",
-            "link": "https://www.npmjs.com/~reco_luan",
-            "icon": "reco-npm"
-          },
-          {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/aqingcyan",
             "icon": "reco-github"
           },
-          {
-            "text": "简书",
-            "link": "https://www.jianshu.com/u/cd674a19515e",
-            "icon": "reco-jianshu"
-          },
-          {
-            "text": "CSDN",
-            "link": "https://blog.csdn.net/recoluan",
-            "icon": "reco-csdn"
-          },
-          {
-            "text": "博客圆",
-            "link": "https://www.cnblogs.com/luanhewei/",
-            "icon": "reco-bokeyuan"
-          },
-          {
-            "text": "WeChat",
-            "link": "https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A",
-            "icon": "reco-wechat"
-          }
         ]
       }
     ],
@@ -72,11 +48,11 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "博客"
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "文章标签"
       }
     },
     "logo": "/avatar.png",
@@ -84,7 +60,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
-    "author": "AqingCyan",
+    "author": "小薛菜菜子",
     "record": "京ICP备19058107号",
     "startYear": "2019"
   },
