@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: '/bg2.jpeg'
+bgImage: '/bg1.png'
 faceImage: '/avatar.png'
 heroImageStyle: {
   maxWidth: '600px',
