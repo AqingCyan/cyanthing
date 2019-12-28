@@ -35,12 +35,12 @@ module.exports = {
         "icon": "reco-home"
       },
       {
-        "text": "时间轴",
+        "text": "归档",
         "link": "/timeLine/",
         "icon": "reco-date"
       },
       {
-        "text": "外链",
+        "text": "相关链接",
         "icon": "reco-message",
         "items": [
           {
@@ -55,13 +55,21 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "博客"
+        "text": "分类"
       },
       "tag": {
         "location": 3,
-        "text": "文章标签"
+        "text": "标签"
       }
     },
+    "friendLink": [
+      {
+        "title": '午后南杂',
+        "desc": 'Enjoy when you can, and endure when you must.',
+        "email": 'recoluan@qq.com',
+        "link": 'https://www.recoluan.com'
+      },
+    ],
     "logo": "/avatar.png",
     "search": true,
     "searchMaxSuggestions": 10,

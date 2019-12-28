@@ -2,53 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26e19f57-33ce-4d2c-a5cc-0e31d5621f9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/0.styles.e4f337ed.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/home-bg.7b267d7c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/home-head.9e98f9ef.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/icon_vuepress_reco.406370f8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/search.83621669.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/1.977eec09.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/10.c705595f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/11.5a890298.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/12.1171f1c6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/13.a20391f7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/14.a8b106ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/15.1025550a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/16.0f14e317.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/3.42b74a2d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/4.9738732c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/5.074d7a7a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/6.80d4015d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/7.e8de707f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/8.8f9f4633.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/9.6eb445da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/app.7cc94b9a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/bg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/bg2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/blog1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/category1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/category2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/前端/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/timeline/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/views/category1/2018/121501.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/views/category1/2019/092101.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/views/category2/2016/121501.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/views/category2/2017/092101.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/views/category3/2018/121501.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/views/category3/2019/092101.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/category1/2018/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/category1/2019/092101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/category2/2016/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/category2/2017/092101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/category3/2018/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/category3/2019/092101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577457347639</updated>
-      <workItem from="1577457348909" duration="8559000" />
+      <workItem from="1577457348909" duration="10893000" />
     </task>
     <servers />
   </component>
