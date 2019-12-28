@@ -21,6 +21,13 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    vssueConfig: {
+      platform: 'github',
+      owner: 'AqingCyan',
+      repo: 'cyanthing',
+      clientId: '630a66f6ab2974e86ecb',
+      clientSecret: '7d9934b82a47b3a74ddf521698609c55b44996a7',
+    },
     "nav": [
       {
         "text": "主页",
