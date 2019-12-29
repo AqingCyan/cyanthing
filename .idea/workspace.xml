@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26e19f57-33ce-4d2c-a5cc-0e31d5621f9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/theFrontEnd/202001.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/theFrontEnd/202001.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/theFrontEnd/202001.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/theFrontEnd/2020/202001.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +30,14 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/views/theFrontEnd/2020" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
       <recent name="$PROJECT_DIR$/docs/views" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -104,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577457347639</updated>
       <workItem from="1577457348909" duration="11204000" />
-      <workItem from="1577542397152" duration="2471000" />
+      <workItem from="1577542397152" duration="6003000" />
     </task>
     <servers />
   </component>
