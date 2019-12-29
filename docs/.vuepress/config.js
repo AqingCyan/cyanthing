@@ -1,6 +1,6 @@
 module.exports = {
   "title": "小薛菜菜子的技术轴",
-  "description": "You're just the tip of the iceberg",
+  "description": "看点技术书，写点小页面；I'm always a beginner🌈",
   base: '/',
   "dest": "public",
   "head": [
