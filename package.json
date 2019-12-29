@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "vuepress": "1.2.0",
-    "vuepress-theme-reco": "1.2.0-alpha.13"
+    "vuepress-theme-reco": "1.1.4"
   },
   "description": "AqingCyan become bigger"
 }
